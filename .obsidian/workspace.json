@@ -173,41 +173,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "floating": {
-    "id": "bcbdfcf6087003da",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c59760c11a36f3ad",
-        "type": "window",
-        "children": [
-          {
-            "id": "93d367fadad89691",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ce7a5fbd253586ee",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1912,
-        "y": -8,
-        "width": 976,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
   "active": "d8f149a1347a4776",
   "lastOpenFiles": [
+    "README.txt",
+    "README.md.txt",
+    "New Text Document.txt",
     "Technical Stuff/PRISM Framework/PRISM Framework.md",
     "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
     "Technical Stuff/Technical Stuff.md",
@@ -234,7 +204,6 @@
     "Technical Stuff/Questions/Why Prism doesn't use generic T instead of TPayload.md",
     "Technical Stuff/Questions/Why Execute method in ICommand has an object parameter.md",
     "Technical Stuff/Questions/What is weak event pattern.md",
-    "Technical Stuff/Questions/What is Uri in .NET context.md",
     "Technical Stuff/PRISM Framework/Notes from Document/Command",
     "Resources/Pasted image 20240116131422.png",
     "Technical Stuff/PRISM Framework/Notes from Samples/Untitled",
@@ -250,8 +219,6 @@
     "Resources/ModularityHor.png",
     "Resources/ModularityVertical.png",
     "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Module related contents",
-    "Technical Stuff/PRISM Framework/Questions",
     "Resources/ModularityAppArchitecture.png",
     "Resources/Pasted image 20240108135635.png"
   ]
