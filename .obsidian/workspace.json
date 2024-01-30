@@ -4,22 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7116038e962ec1",
+        "id": "554e563359351813",
         "type": "tabs",
         "children": [
           {
-            "id": "d8f149a1347a4776",
+            "id": "cc01076383b74d34",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md"
+              }
+            }
+          },
+          {
+            "id": "9557027baec6aefd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md"
+              }
+            }
+          },
+          {
+            "id": "784f1f8ca8666e45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md"
+              }
+            }
+          },
+          {
+            "id": "bb8664612bc78f11",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md"
+              }
+            }
+          },
+          {
+            "id": "a9dacbda18e8bcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Stuff/Questions/Questions.md",
+                "file": "Technical Stuff/Technical Stuff.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "on-demand",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -69,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5026054382324
+    "width": 245.5
   },
   "right": {
     "id": "7491882444cf49f2",
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Stuff/Questions/Questions.md",
+                "file": "Technical Stuff/Technical Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Stuff/Questions/Questions.md"
+                "file": "Technical Stuff/Technical Stuff.md"
               }
             }
           },
@@ -166,60 +207,59 @@
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-day-planner:Week plan": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-brat:BRAT": false,
       "obsidian-rich-links:Rich Links": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8f149a1347a4776",
+  "active": "a9dacbda18e8bcae",
   "lastOpenFiles": [
+    "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md",
+    "Technical Stuff/Common Lib/Model/DbConnection - Models.md",
+    "Technical Stuff/Common Lib/ViewModel/DbConnection - ViewModel.md",
+    "Technical Stuff/Common Lib/View/2 - DbConnection - View.md",
+    "Technical Stuff/Common Lib/View/1 - MainWindow - View.md",
+    "Technical Stuff/Common Lib/Flows/2 - Search PCB.md",
+    "Technical Stuff/Common Lib/Model/ResultParser - Models.md",
+    "Technical Stuff/Common Lib/Flows/1 - Connect DB.md",
+    "Technical Stuff/Common Lib/View/3 - ResultParser - View.md",
+    "Technical Stuff/Common Lib/ViewModel/MainWindow - ViewModel.md",
+    "Technical Stuff/Common Lib/ViewModel/ViewModel.md",
+    "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md",
+    "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md",
+    "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md",
+    "Resources/Pasted Image 20240130132357_036.png",
+    "Resources/Pasted Image 20240130132342_036.png",
+    "Resources/Pasted Image 20240130132257_032.png",
+    "Resources/Pasted Image 20240130132241_030.png",
+    "Resources/Pasted Image 20240130132226_029.png",
+    "Resources/Pasted Image 20240130132211_028.png",
+    "Resources/Pasted Image 20240130132141_025.png",
+    "Resources/Pasted Image 20240130132109_995.png",
+    "Resources/Pasted image 20240130102025.png",
+    "Resources/Pasted image 20240130101953.png",
+    "Technical Stuff/Common Lib/Model/Model.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Navigation/IRegionMemberLifetime.md",
+    "Technical Stuff/Common Lib/Common Lib.md",
+    "Technical Stuff/Common Lib/Flows/Flows.md",
+    "Technical Stuff/Questions/When RaisePropertyChanged is call implicitly.md",
+    "Technical Stuff/Questions/Questions.md",
+    "Technical Stuff/Common Lib/View/View.md",
+    "Technical Stuff/Common Lib/Flows",
+    "Technical Stuff/Common Lib/Connection String.md",
+    "Technical Stuff/Common Lib/Model",
+    "Technical Stuff/Common Lib/View/Untitled.md",
+    "Technical Stuff/Common Lib/ViewModel",
+    "Technical Stuff/Common Lib/View",
+    "Technical Stuff/Common Lib/ORM.md",
+    "Technical Stuff/Common Lib/Dapper.md",
+    "Technical Stuff/Common Lib",
+    "Excalidraw",
     "README.txt",
     "README.md.txt",
     "New Text Document.txt",
-    "Technical Stuff/PRISM Framework/PRISM Framework.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
-    "Technical Stuff/Technical Stuff.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Dependency Injection.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/DI.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/DI Container.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/IContainerProvider.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/IContainerRegistry.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/Prism Implementation.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/ContainerLocator.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/IoC.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/Command.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/IActivateAware.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/DelegateCommand.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/Composite Commands.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/ICommand.md",
-    "Excalidraw/Drawing 2024-01-23 09.30.11.excalidraw.md",
-    "Excalidraw",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/Commanding.md",
-    "Technical Stuff/Questions/Why use Command and not EventHandler.md",
-    "Technical Stuff/Questions/Questions.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Event Aggregator/TPayload.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator.md",
-    "Technical Stuff/Questions/Why Prism doesn't use generic T instead of TPayload.md",
-    "Technical Stuff/Questions/Why Execute method in ICommand has an object parameter.md",
-    "Technical Stuff/Questions/What is weak event pattern.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command",
-    "Resources/Pasted image 20240116131422.png",
-    "Technical Stuff/PRISM Framework/Notes from Samples/Untitled",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator",
-    "Technical Stuff/PRISM Framework/Notes from Document/Event Aggregator",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation",
-    "Resources/ioc-4477.png",
-    "Resources/ab.png",
-    "Resources/aa.jpeg",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Core Scenarios",
-    "Resources/ModularityDi.png",
-    "Resources/ModularityHor 1.png",
-    "Resources/ModularityHor.png",
-    "Resources/ModularityVertical.png",
-    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection",
-    "Resources/ModularityAppArchitecture.png",
-    "Resources/Pasted image 20240108135635.png"
+    "Technical Stuff/PRISM Framework/Notes from Document/Command"
   ]
 }
