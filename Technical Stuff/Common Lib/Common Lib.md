@@ -8,6 +8,7 @@ type: folder_brief_live
 
 %% Begin Waypoint %%
 - [[Connection String]]
+- **[[Control - Chart]]**
 - [[CRUD]]
 - [[Dapper]]
 - [[DTO]]

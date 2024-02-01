@@ -196,8 +196,8 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 		},
 		{
 			"type": "arrow",
-			"version": 488,
-			"versionNonce": 364474023,
+			"version": 612,
+			"versionNonce": 74637191,
 			"isDeleted": false,
 			"id": "fNhtlqaBpW-p1F5ipeHS8",
 			"fillStyle": "hachure",
@@ -219,7 +219,7 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706597470094,
+			"updated": 1706779884556,
 			"link": null,
 			"locked": false,
 			"startBinding": {

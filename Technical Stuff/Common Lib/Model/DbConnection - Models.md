@@ -196,8 +196,8 @@ ba6d5956bd19508781dd2feeb7d9c78b5c969aaa: [[Pasted Image 20240129142057_169.png]
 		},
 		{
 			"type": "rectangle",
-			"version": 90,
-			"versionNonce": 1498967399,
+			"version": 92,
+			"versionNonce": 491496137,
 			"isDeleted": false,
 			"id": "JtHgDF9lH_VuGz00p1XLn",
 			"fillStyle": "hachure",
@@ -228,7 +228,7 @@ ba6d5956bd19508781dd2feeb7d9c78b5c969aaa: [[Pasted Image 20240129142057_169.png]
 					"type": "arrow"
 				}
 			],
-			"updated": 1706581603142,
+			"updated": 1706776689468,
 			"link": null,
 			"locked": false
 		},
@@ -2737,7 +2737,7 @@ ba6d5956bd19508781dd2feeb7d9c78b5c969aaa: [[Pasted Image 20240129142057_169.png]
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
@@ -2751,10 +2751,10 @@ ba6d5956bd19508781dd2feeb7d9c78b5c969aaa: [[Pasted Image 20240129142057_169.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2046.3102593486078,
-		"scrollY": 1015.1830777380924,
+		"scrollX": 927.1070717721593,
+		"scrollY": 753.4573500898175,
 		"zoom": {
-			"value": 0.45
+			"value": 0.6000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
