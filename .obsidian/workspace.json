@@ -71,10 +71,8 @@
             "id": "46249b00a06ba6a2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Control - Chart/0 - Type of Charts.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -101,11 +99,19 @@
             "id": "972cfaa457d01fcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Workflow.md",
-                "mode": "preview",
-                "source": true
+                "file": "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md"
+              }
+            }
+          },
+          {
+            "id": "449bae9557826963",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Technical Stuff/Common Lib/Model/Models Connection.md"
               }
             }
           },
@@ -134,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -200,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow.md",
+                "file": "Technical Stuff/Common Lib/Model/Models Connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workflow.md"
+                "file": "Technical Stuff/Common Lib/Model/Models Connection.md"
               }
             }
           },
@@ -288,44 +294,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "972cfaa457d01fcd",
+  "active": "449bae9557826963",
   "lastOpenFiles": [
+    "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md",
+    "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md",
+    "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md",
+    "Technical Stuff/Common Lib/Model/Models Connection.md",
+    "Technical Stuff/Common Lib/Model/ResultParser - Models.md",
+    "Technical Stuff/Common Lib/Model/DbConnection - Models.md",
+    "Technical Stuff/Common Lib/Flows/2 - Search PCB.md",
+    "Technical Stuff/Common Lib/Flows/1 - Connect DB.md",
+    "Resources/Pasted Image 20240202142727_976.png",
+    "Technical Stuff/Common Lib/Flows/Flows.md",
+    "Technical Stuff/Common Lib/Control - Chart/Control - Chart.md",
+    "Technical Stuff/Common Lib/Control - Chart/0 - Types of Chart.md",
+    "Resources/Pasted Image 20240202140851_267.png",
+    "Resources/Pasted Image 20240202140745_248.png",
+    "Resources/Pasted Image 20240202135353_995.png",
+    "Resources/Pasted Image 20240202133223_108.png",
+    "Resources/Pasted Image 20240202133137_100.png",
+    "Resources/Pasted Image 20240202131340_080.png",
+    "Resources/Pasted Image 20240202124746_917.png",
+    "Technical Stuff/Common Lib/Control - Chart/2 - Switch between type of Trend Chart.md",
+    "Technical Stuff/Common Lib/Control - Chart/3.1 - Histogram Trend.md",
+    "Technical Stuff/Common Lib/View/View.md",
+    "Technical Stuff/Common Lib/Control - Chart/Overview.md",
+    "Technical Stuff/Common Lib/Control - Chart/1b - Thickness Chart Control Connection.md",
+    "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md",
+    "Resources/Pasted Image 20240202101351_117.png",
+    "Resources/Pasted Image 20240202100649_064.png",
+    "Technical Stuff/Common Lib/Control - Chart/0 - Type of Charts.md",
+    "Technical Stuff/Common Lib/Model/Model.md",
+    "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md",
+    "Workflow.md",
     "Technical Stuff/Questions/Questions.md",
     "Technical Stuff/PRISM Framework/PRISM Framework.md",
     "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
     "Technical Stuff/PRISM Framework/Notes from Document/Navigation/Navigation.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/Command.md",
-    "Technical Stuff/PRISM Framework/Notes from Samples/Notes from Samples.md",
-    "Technical Stuff/CSharp & .NET/Loaded Event.md",
-    "Technical Stuff/CSharp & .NET/Discard.md",
-    "Technical Stuff/CSharp & .NET/CSharp & .NET.md",
-    "Technical Stuff/Common Lib/ORM - DTO Flow.md",
-    "Technical Stuff/Common Lib/ORM.md",
-    "Technical Stuff/Common Lib/DTO.md",
-    "Technical Stuff/Common Lib/CRUD.md",
-    "Technical Stuff/Common Lib/Dapper.md",
-    "Technical Stuff/Common Lib/Model/Model Connection.md",
-    "Resources/Pasted Image 20240201163818_683.png",
-    "Resources/Pasted Image 20240201162550_477.png",
-    "Resources/Pasted Image 20240201162434_463.png",
-    "Resources/Pasted Image 20240201162348_460.png",
-    "Resources/Pasted Image 20240201162314_452.png",
-    "Resources/Pasted Image 20240201161235_596.png",
-    "Technical Stuff/Common Lib/Model/DbConnection - Models.md",
-    "Technical Stuff/Common Lib/Model/ResultParser - Models.md",
-    "Technical Stuff/Common Lib/Model/Model.md",
-    "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md",
-    "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md",
-    "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md",
-    "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md",
-    "Technical Stuff/Common Lib/Flows/Flows.md",
-    "Resources/Pasted Image 20240201155644_063.png",
-    "Resources/Pasted Image 20240201155545_849.png",
-    "Resources/Pasted Image 20240201155523_978.png",
-    "Resources/Pasted Image 20240201155508_974.png",
-    "Technical Stuff/Common Lib/Common Lib.md",
-    "Technical Stuff/Common Lib/Control - Chart/3.1 - Histogram Trend.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Command/IActivateAware.md",
     "Technical Stuff/Common Lib/Control - Chart",
     "Excalidraw",
     "Technical Stuff/Common Lib/Flows",

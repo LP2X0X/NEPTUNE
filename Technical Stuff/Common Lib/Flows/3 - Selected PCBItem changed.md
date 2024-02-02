@@ -145,7 +145,6 @@ Invoke and pass null ^vlQKtIKI
 73584240d8d994d39149a886c54857279059c084: [[Pasted Image 20240129144433_990.png]]
 5251fddcb9b586300f9a22dfec78a449b182e494: [[Pasted Image 20240129145148_752.png]]
 b55993223943985fab03f8d737dd5d468c0a8a0e: [[Pasted Image 20240129154328_992.png]]
-5a07b3cfd600d72abe15a3a111f5f77c4cd9cd42: [[Pasted Image 20240129155109_992.png]]
 36abd36d2c8c2556ba4b2f0896ef6671032bde84: [[Pasted Image 20240129155139_993.png]]
 da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]]
 
@@ -196,8 +195,8 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 		},
 		{
 			"type": "arrow",
-			"version": 612,
-			"versionNonce": 74637191,
+			"version": 654,
+			"versionNonce": 1060657065,
 			"isDeleted": false,
 			"id": "fNhtlqaBpW-p1F5ipeHS8",
 			"fillStyle": "hachure",
@@ -219,7 +218,7 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1706779884556,
+			"updated": 1706859267248,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2108,41 +2107,8 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 		},
 		{
 			"type": "image",
-			"version": 160,
-			"versionNonce": 594901863,
-			"isDeleted": false,
-			"id": "oopy48ac4AQMOu_82lt8P",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 3012.239251248713,
-			"y": 1295.2122503157884,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 1243,
-			"height": 375,
-			"seed": 674570829,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706578545831,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "5a07b3cfd600d72abe15a3a111f5f77c4cd9cd42",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "image",
-			"version": 141,
-			"versionNonce": 356487817,
+			"version": 178,
+			"versionNonce": 613749801,
 			"isDeleted": false,
 			"id": "FQvNNxFPVB000OwwBsTkl",
 			"fillStyle": "hachure",
@@ -2151,8 +2117,8 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3064.38771587545,
-			"y": 1769.9158635970387,
+			"x": 3084.7581314570475,
+			"y": 1242.138085819261,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 1115,
@@ -2162,7 +2128,7 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706578545831,
+			"updated": 1706859863156,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -5688,6 +5654,39 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 			"originalText": "6",
 			"lineHeight": 1.25,
 			"baseline": 32
+		},
+		{
+			"type": "image",
+			"version": 162,
+			"versionNonce": 1712735271,
+			"isDeleted": true,
+			"id": "oopy48ac4AQMOu_82lt8P",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3008.5355023337825,
+			"y": 1295.2122503157884,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 1243,
+			"height": 375,
+			"seed": 674570829,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1706859861003,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "5a07b3cfd600d72abe15a3a111f5f77c4cd9cd42",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -5705,10 +5704,10 @@ da7f1d7614cd1ee17cb8c6e4c70bf1be69a7ad21: [[Pasted Image 20240129161336_994.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -5313.315986949039,
-		"scrollY": 1059.433377759688,
+		"scrollX": -2501.5205421577584,
+		"scrollY": -460.25897126549404,
 		"zoom": {
-			"value": 0.39999999999999997
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

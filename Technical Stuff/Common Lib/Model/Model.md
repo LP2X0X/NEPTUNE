@@ -8,7 +8,7 @@ type: folder_brief_live
 
 %% Begin Waypoint %%
 - [[DbConnection - Models]]
-- [[Model Connection]]
+- [[Models Connection]]
 - [[ResultParser - Models]]
 
 %% End Waypoint %%
