@@ -13,5 +13,6 @@ type: folder_brief_live
 - [[4 - Selected InspItem changed]]
 - [[5 - Selected InspectionItemResult changed]]
 - [[6.1 - ResultParser]]
+- [[Special - Db to Controls]]
 
 %% End Waypoint %%
