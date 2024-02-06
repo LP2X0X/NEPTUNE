@@ -4,153 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "554e563359351813",
+        "id": "09a31675fa1f65d0",
         "type": "tabs",
         "children": [
           {
-            "id": "cc01076383b74d34",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md"
-              }
-            }
-          },
-          {
-            "id": "9557027baec6aefd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md"
-              }
-            }
-          },
-          {
-            "id": "784f1f8ca8666e45",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md"
-              }
-            }
-          },
-          {
-            "id": "bb8664612bc78f11",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md"
-              }
-            }
-          },
-          {
-            "id": "a9dacbda18e8bcae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Model/ResultParser - Models.md"
-              }
-            }
-          },
-          {
-            "id": "dea5921fcd9ddeaf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md"
-              }
-            }
-          },
-          {
-            "id": "46249b00a06ba6a2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d59dc36aa4bbaa30",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md"
-              }
-            }
-          },
-          {
-            "id": "d6fa22e7e151e27f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md"
-              }
-            }
-          },
-          {
-            "id": "972cfaa457d01fcd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md"
-              }
-            }
-          },
-          {
-            "id": "449bae9557826963",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md"
-              }
-            }
-          },
-          {
-            "id": "9a23bb53a5861529",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technical Stuff/Common Lib/Flows/Special - Db to Controls.md"
-              }
-            }
-          },
-          {
-            "id": "e19debb51d2077b4",
+            "id": "4044f89abece39cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Stuff/Common Lib/Model/Model.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5255d10ea00ef7e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technical Stuff/PRISM Framework/PRISM Framework.md",
+                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5026054382324
+    "width": 329.5026054382324
   },
   "right": {
     "id": "7491882444cf49f2",
@@ -216,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Stuff/Common Lib/Flows/Special - Db to Controls.md",
+                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Stuff/Common Lib/Flows/Special - Db to Controls.md"
+                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md"
               }
             }
           },
@@ -304,43 +173,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93d85604355e1efd",
+  "active": "4044f89abece39cd",
   "lastOpenFiles": [
-    "Technical Stuff/Common Lib/Flows/6.1 - ResultParser.md",
-    "Technical Stuff/Common Lib/Flows/Special - Db to Controls.md",
-    "Technical Stuff/Common Lib/Model/Special - Models Connection.md",
-    "Technical Stuff/Common Lib/Model/DbConnection - Models.md",
-    "Technical Stuff/Common Lib/Model/ResultParser - Models.md",
-    "Resources/Pasted Image 20240205142615_001.png",
-    "Resources/Pasted Image 20240205142523_991.png",
-    "Resources/Pasted Image 20240205142238_733.png",
-    "Resources/Pasted Image 20240205142222_731.png",
-    "Resources/Pasted Image 20240205142152_728.png",
-    "Resources/Pasted Image 20240205141846_523.png",
-    "Technical Stuff/Common Lib/Model/Model.md",
-    "Resources/Pasted Image 20240205140926_756.png",
-    "Resources/Pasted Image 20240205140809_750.png",
-    "Resources/Pasted Image 20240205140213_691.png",
-    "Resources/Pasted Image 20240205140125_680.png",
-    "Technical Stuff/Common Lib/View/1 - MainWindow - View.md",
-    "Technical Stuff/Common Lib/View/3 - ResultParser - View.md",
-    "Technical Stuff/Common Lib/View/View.md",
-    "Technical Stuff/Common Lib/View/2 - DbConnection - View.md",
-    "Technical Stuff/Common Lib/Flows/5 - Selected InspectionItemResult changed.md",
-    "Technical Stuff/Common Lib/Flows/4 - Selected InspItem changed.md",
-    "Technical Stuff/Common Lib/Flows/3 - Selected PCBItem changed.md",
-    "Technical Stuff/Common Lib/Flows/2 - Search PCB.md",
-    "Technical Stuff/Common Lib/Flows/1 - Connect DB.md",
-    "Technical Stuff/Common Lib/Control - Chart/Overview.md",
-    "Technical Stuff/Common Lib/Control - Chart/3.1 - Histogram Trend.md",
-    "Technical Stuff/Common Lib/Control - Chart/2 - Switch between type of Trend Chart.md",
-    "Technical Stuff/Common Lib/Control - Chart/1b - Thickness Chart Control Connection.md",
-    "Technical Stuff/Common Lib/Control - Chart/1a - Trend Chart Control Connection.md",
-    "Technical Stuff/Common Lib/Control - Chart/0 - Types of Chart.md",
-    "Technical Stuff/Common Lib/Control - Chart/Control - Chart.md",
-    "Technical Stuff/Common Lib/ORM - DTO Flow.md",
-    "Technical Stuff/Common Lib/Connection String.md",
-    "Technical Stuff/Common Lib/CRUD.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/View Composition.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Region Implementation.md",
+    "Technical Stuff/PRISM Framework/Notes from Samples/Notes from Samples.md",
+    "Technical Stuff/PRISM Framework/Notes from Samples/BootstrapperShell.md",
+    "Technical Stuff/PRISM Framework/Notes from Samples/DelegateCommand.md",
+    "Technical Stuff/PRISM Framework/Notes from Samples/ViewModelLocationProvider.md",
+    "Technical Stuff/PRISM Framework/Notes from Samples/EventAggregator.md",
+    "Technical Stuff/PRISM Framework/Set up project/2 - Basic set up View and ViewModel.md",
+    "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md",
+    "Technical Stuff/PRISM Framework/Set up project/Set up project.md",
+    "Resources/Pasted image 20240206103903.png",
+    "Resources/Pasted image 20240206103757.png",
+    "Resources/Pasted image 20240206103717.png",
+    "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
+    "Technical Stuff/PRISM Framework/PRISM Framework.md",
+    "Technical Stuff/CSharp & .NET/CSharp & .NET.md",
+    "Technical Stuff/CSharp & .NET/SetProperty.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator Definition.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocationProvider.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator Usage.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Modular Application Development.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Partition application into module.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/ModuleInfo.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/IModule.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Module.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Modular Application.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Example.md",
+    "Resources/Pasted image 20240206100711.png",
+    "Resources/Pasted image 20240206100228.png",
+    "Resources/Pasted image 20240206095508.png",
+    "Resources/Pasted image 20240206095447.png",
+    "Resources/Pasted image 20240206095128.png",
+    "Resources/Pasted image 20240206095106.png",
+    "Resources/Pasted image 20240206095000.png",
+    "Technical Stuff/PRISM Framework/Set up project",
     "Technical Stuff/Common Lib/Control - Chart",
     "Excalidraw",
     "Technical Stuff/Common Lib/Flows",
@@ -349,7 +220,6 @@
     "Technical Stuff/Common Lib/View",
     "Technical Stuff/Common Lib",
     "README.txt",
-    "README.md.txt",
-    "New Text Document.txt"
+    "README.md.txt"
   ]
 }
