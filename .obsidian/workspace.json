@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
+                "file": "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
+                "file": "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md"
+                "file": "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md"
               }
             }
           },
@@ -169,48 +169,48 @@
       "obsidian42-brat:BRAT": false,
       "obsidian-rich-links:Rich Links": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "4044f89abece39cd",
   "lastOpenFiles": [
+    "Technical Stuff/PRISM Framework/Set up project/Set up project.md",
+    "Technical Stuff/PRISM Framework/Set up project/Untitled",
+    "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Navigation/IRegionMemberLifetime.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Navigation/INavigationAware.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Navigation/Navigation.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Region Implementation.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Region.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Composite View.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Navigation.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
+    "Technical Stuff/Questions/Difference between instantiated and initialized.md",
+    "Technical Stuff/Questions/Questions.md",
+    "Resources/Pasted image 20240219133954.png",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/Prism Implementation.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/Resolving Types.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Prism Implementation/Registering Types.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/IoC.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/DI Container.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/DI.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/Dependency Injection/Dependency Injection.md",
+    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
     "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator.md",
     "Technical Stuff/PRISM Framework/Notes from Document/View Composition/View Composition.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/View Composition/Region Implementation.md",
     "Technical Stuff/PRISM Framework/Notes from Samples/Notes from Samples.md",
     "Technical Stuff/PRISM Framework/Notes from Samples/BootstrapperShell.md",
     "Technical Stuff/PRISM Framework/Notes from Samples/DelegateCommand.md",
-    "Technical Stuff/PRISM Framework/Notes from Samples/ViewModelLocationProvider.md",
-    "Technical Stuff/PRISM Framework/Notes from Samples/EventAggregator.md",
-    "Technical Stuff/PRISM Framework/Set up project/2 - Basic set up View and ViewModel.md",
-    "Technical Stuff/PRISM Framework/Set up project/1 - How to set up a project to use PRISM.md",
-    "Technical Stuff/PRISM Framework/Set up project/Set up project.md",
     "Resources/Pasted image 20240206103903.png",
     "Resources/Pasted image 20240206103757.png",
     "Resources/Pasted image 20240206103717.png",
-    "Technical Stuff/PRISM Framework/Notes from Document/Notes from Document.md",
-    "Technical Stuff/PRISM Framework/PRISM Framework.md",
-    "Technical Stuff/CSharp & .NET/CSharp & .NET.md",
-    "Technical Stuff/CSharp & .NET/SetProperty.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/Custom ViewModel Registrations.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator Definition.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocationProvider.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/ViewModelLocator/ViewModelLocator Usage.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Modular Application Development.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Partition application into module.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/ModuleInfo.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/IModule.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Module.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Modular Application.md",
-    "Technical Stuff/PRISM Framework/Notes from Document/Modular Application Development/Example.md",
     "Resources/Pasted image 20240206100711.png",
     "Resources/Pasted image 20240206100228.png",
     "Resources/Pasted image 20240206095508.png",
     "Resources/Pasted image 20240206095447.png",
     "Resources/Pasted image 20240206095128.png",
     "Resources/Pasted image 20240206095106.png",
-    "Resources/Pasted image 20240206095000.png",
     "Technical Stuff/PRISM Framework/Set up project",
     "Technical Stuff/Common Lib/Control - Chart",
     "Excalidraw",
@@ -219,7 +219,6 @@
     "Technical Stuff/Common Lib/ViewModel",
     "Technical Stuff/Common Lib/View",
     "Technical Stuff/Common Lib",
-    "README.txt",
-    "README.md.txt"
+    "README.txt"
   ]
 }
